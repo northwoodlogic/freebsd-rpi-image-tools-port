@@ -1,0 +1,3 @@
+rpi-image-tools allows you to build network appliances for the Raspberry Pi
+Model B/B+ and 2. Image build is done in separable stages, allowing easier
+integration with build automation tools.
