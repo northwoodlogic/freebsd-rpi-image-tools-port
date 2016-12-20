@@ -12,7 +12,7 @@ LICENSE=        BSD2CLAUSE
 USE_GITHUB=	yes
 GH_ACCOUNT=	northwoodlogic
 GH_PROJECT=	freebsd-rpi-image-tools
-GH_TAGNAME=	3d5c09d
+GH_TAGNAME=	9deb6ca
 
 PLIST_FILES=	bin/rpi-image-compile.sh \
 		bin/rpi-image-create.sh \
